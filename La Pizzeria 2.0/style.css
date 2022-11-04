@@ -1,0 +1,40 @@
+.header {
+    height: 460px;
+    background: url(/img/depositphotos_91117102-stock-photo-pizza-black-symbol-with-a.jpg) no-repeat center top;
+    background-size: cover;
+}
+
+.navbar {
+    height: 63px;
+    background: #212121;
+    border-bottom: 1px dashed #d6e199;
+}
+.navbar a {
+    padding: 0 20px;
+    color: #fff;
+    text-transform: uppercase;
+    font: 20px "";
+}
+
+.fondo{
+    width: 1600px;
+    height: 550px;
+    color: #fff;
+    background: #212121;
+    text-align: center;
+}
+.fondo2{
+    background-color: #212121;
+    text-align: center;
+}
+.fondo3{
+    background-color: #212121;
+    text-align: center;
+}
+.carta {
+    background-color: #212121;
+
+}
+
+
+
